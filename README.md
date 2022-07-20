@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ipsita36
 - 👀 I’m interested in Python,Java,Html,Css
-- 🌱 I’m currently learning Html,Css
 - 📫 How to reach me: ipsitabanerjee36@gmail.com
 
 <!---
